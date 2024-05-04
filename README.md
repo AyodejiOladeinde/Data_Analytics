@@ -9,7 +9,7 @@
 
 
 # Project 2
-**Title:** [Retail_Sales Dashboard]([https://github.com/Sagereal7/Data_Analytics](https://github.com/Sagereal7/Data_Analytics/blob/main/Retail_sales_db.pbix)
+**Title:** [Retail_Sales Dashboard](https://github.com/Sagereal7/Data_Analytics/blob/main/Retail_sales_db.pbix)
 
 **Summary** This project analyzed sales performance data for fiscal year [2023] to identify key trends and provide actionable insights to the company board for improving sales strategies."
 
