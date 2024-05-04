@@ -6,3 +6,12 @@
 
 **Dashboard Overview**
 ![HR_Dashboard](HR_Dashboard.png)
+
+
+# Project 2
+**Title:** [TechDrive HR Dashboard](https://github.com/Sagereal7/Data_Analytics)
+
+**Summary** dofbndkfnbkmfdmb
+
+**Dashboard Overview**
+![HR_Dashboard](HR_Dashboard.png)
