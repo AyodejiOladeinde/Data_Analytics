@@ -1,4 +1,4 @@
-# Ayodeji Oladeinde Data Analytics Portfolio 
+# Ayodeji Oladeinde Portfolio 
 # Project 1
 **Title:** [TechDrive HR Dashboard](https://github.com/AyodejiOladeinde/Data_Analytics)
 
